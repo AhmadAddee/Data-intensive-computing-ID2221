@@ -1,0 +1,3 @@
+CouchDB https://couchdb.apache.org/
+OrbitDB https://orbitdb.org/
+GunDB https://gun.eco/

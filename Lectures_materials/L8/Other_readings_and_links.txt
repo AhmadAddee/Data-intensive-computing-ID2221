@@ -1,0 +1,3 @@
+Spark - The Definitive Guide (Ch. 20-23)
+Learning Spark (Ch. 8)
+Spark Streaming Documentation https://spark.apache.org/docs/latest/streaming-programming-guide.html

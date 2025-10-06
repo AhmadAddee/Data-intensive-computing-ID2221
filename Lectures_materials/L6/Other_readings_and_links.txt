@@ -1,0 +1,6 @@
+Spark - The Definitive Guide (Ch. 2, 12-14)
+Learning Spark (Ch. 1-2)
+Spark Documentation https://spark.apache.org/docs/latest/rdd-programming-guide.html
+Dask https://www.dask.org/
+OpenLineage https://openlineage.io/
+Marquez https://marquezproject.ai/

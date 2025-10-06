@@ -1,0 +1,2 @@
+Spark - The Definitive Guide (Ch. 30)
+GraphX Documentation https://spark.apache.org/docs/latest/graphx-programming-guide.html
