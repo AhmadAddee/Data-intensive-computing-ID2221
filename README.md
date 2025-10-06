@@ -21,3 +21,4 @@ After passing the course, students should be able to (according to [Bloom's taxo
 
 ---
 The Course Examiner: Amir H. Payberah
+Lectures recorded in 2021 [here](https://kth-my.sharepoint.com/personal/payberah_ug_kth_se/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpayberah%5Fug%5Fkth%5Fse%2FDocuments%2FID2221%20%2D%202021&ga=1)
